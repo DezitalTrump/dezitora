@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cards">           
+        <item>@drawable/c01</item>
+        <item>@drawable/c02</item>
+        <item>@drawable/c03</item>
+        <item>@drawable/c04</item>
+        <item>@drawable/c05</item>
+        <item>@drawable/c06</item>
+        <item>@drawable/c07</item>
+        <item>@drawable/c08</item>
+        <item>@drawable/c09</item>
+        <item>@drawable/c10</item>
+        <item>@drawable/c11</item>
+        <item>@drawable/c12</item>
+        <item>@drawable/c13</item>
+        
+        <item>@drawable/d01</item>
+        <item>@drawable/d02</item>
+        <item>@drawable/d03</item>
+        <item>@drawable/d04</item>
+        <item>@drawable/d05</item>
+        <item>@drawable/d06</item>
+        <item>@drawable/d07</item>
+        <item>@drawable/d08</item>
+        <item>@drawable/d09</item>
+        <item>@drawable/d10</item>
+        <item>@drawable/d11</item>
+        <item>@drawable/d12</item>
+        <item>@drawable/d13</item>
+    </array>
+</resources>
